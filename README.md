@@ -80,6 +80,7 @@ int main() {
 
 ## OUTPUT
 
+![alt text](img2/1.png)
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 #include <stdio.h>
@@ -151,6 +152,7 @@ int main() {
 
 ## OUTPUT
 
+![alt text](img2/2...png)
 
 # RESULT:
 The program is executed successfully.
